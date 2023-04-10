@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #00008B;
+
+}
+input{
+    /* background-color: #fff; */
+    color: #fff;
+    margin-top: 70px;
+    margin-left: 40px;
+    
+    
+}
+
+.qutu{
+    width: 500px;
+    height: 400px;
+    background-color: #6495ED;
+    position: absolute;
+    top: 19%;
+    margin-left: 35px;
+    border-radius: 10%;
+
+}
+
+
+.qutu .text{
+
+    margin-left: 40px;
+    width: 400px;
+    color: #fff;
+    position: absolute;
+    top: 20%;
+}
+
+
+/* sekil */
+
+.ikinci{
+    color: #fff;
+    margin-top: 70px;
+    margin-right: 40px;
+    position: absolute;
+    left: 50%;
+}
+
+.qutu2{
+    width: 500px;
+    height: 400px;
+    background-color: #6495ED;
+    position: absolute;
+    top: 19%;
+    left: 50%;
+    border-radius: 10%;
+}
+
+
+/* .img{
+    position: absolute; */
+    /* left: 52%; */
+    /* align-items: end;
+    width: 300px; */
+    /* color: #fff; */
+    /* top: 20%; */
+/* } */
